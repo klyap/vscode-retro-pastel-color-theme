@@ -7,6 +7,19 @@
         "vscode": "^1.55.0"
     },
     "publisher": "klyap",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/klyap/vscode-retro-pastel-color-theme.git"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Retro Pastel Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/retro-pastel-color-theme.json"
+            }
+        ]
+    },
     "categories": [
         "Themes"
     ],
@@ -22,14 +35,5 @@
         "cozy",
         "pink",
         "kawaii"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Retro Pastel Color Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/retro-pastel-color-theme.json"
-            }
-        ]
-    }
+    ]
 }
