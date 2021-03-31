@@ -1,0 +1,35 @@
+{
+    "name": "retro-pastel-color-theme",
+    "displayName": "Retro Pastel Color Theme",
+    "description": "Inspired by the pink and green combo on the 9009 retro DSA keycap colorway",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "publisher": "klyap",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"color",
+        "theme",
+        "pixel",
+        "pastels",
+        "cute",
+        "keyboard",
+        "aesthetic",
+        "girl",
+        "cozy",
+        "pink",
+        "kawaii"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Retro Pastel Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/retro-pastel-color-theme.json"
+            }
+        ]
+    }
+}
