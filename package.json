@@ -2,7 +2,7 @@
     "name": "retro-pastel-color-theme",
     "displayName": "Retro Pastel Color Theme",
     "description": "Inspired by the pink and green combo on the 9009 retro DSA keycap colorway",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.54.0"
     },
